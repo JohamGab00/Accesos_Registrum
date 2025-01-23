@@ -1,12 +1,3 @@
-[
-    {
-        "nombre": "Joham Gabriel Mora Castrillo",
-        "contraseña": "4720",
-        "acceso_verificado": true
-    },
-    {
-        "nombre": "joham",
-        "contraseña": "12",
-        "acceso_verificado": false
-    }
+[{"nombre": "Joham Gabriel Mora Castrillo","contraseña": "4720"},
+    {"nombre": "joham","contraseña": "12"}
 ]
