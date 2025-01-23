@@ -1,9 +1,12 @@
-{
-    "Cole A": {
-        "7-1": {
-            "periods": {
-                "Periodo I": []
-            }
-        }
+[
+    {
+        "nombre": "usuario1",
+        "contraseña": "4720as",
+        "acceso_verificado": true
+    },
+    {
+        "nombre": "usuario2",
+        "contraseña": "otraContraseña",
+        "acceso_verificado": false
     }
-}
+]
