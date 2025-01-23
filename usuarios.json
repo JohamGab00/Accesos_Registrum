@@ -5,8 +5,8 @@
         "acceso_verificado": true
     },
     {
-        "nombre": "a",
+        "nombre": "joham",
         "contraseña": "12",
-        "acceso_verificado": false
+        "acceso_verificado": true
     }
 ]
