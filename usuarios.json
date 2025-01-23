@@ -7,6 +7,6 @@
     {
         "nombre": "joham",
         "contraseña": "12",
-        "acceso_verificado": true
+        "acceso_verificado": false
     }
 ]
